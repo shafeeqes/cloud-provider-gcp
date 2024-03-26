@@ -1,6 +1,7 @@
 # cloud-provider-gcp
 
-[![reuse compliant](https://reuse.software/badge/reuse-compliant.svg)](https://reuse.software/)
+[![REUSE status](https://api.reuse.software/badge/github.com/gardener/cloud-provider-gcp)](https://api.reuse.software/info/github.com/gardener/cloud-provider-gcp)
+
 
 ## Publishing gcp-controller-manager image
 
