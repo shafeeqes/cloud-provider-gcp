@@ -1,6 +1,6 @@
 module k8s.io/cloud-provider-gcp
 
-go 1.22.2
+go 1.22.0
 
 replace (
 	// these replacements are pinned to a commit which is the sha associated with the 1.30.0 tag on k/k
